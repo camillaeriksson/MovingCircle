@@ -1,0 +1,12 @@
+div {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 6rem;
+    background: rgb(207, 117, 117);
+    position: fixed;
+    transition: all 1s ease;
+}
+
+body {
+    background: rgb(94, 93, 93);
+}
